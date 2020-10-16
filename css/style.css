@@ -1,0 +1,77 @@
+.logo{float: left;
+margin: 4px 0 24px 140px;
+width: 138px;}
+.menu{float: left;}
+.li{float: left;
+margin: 48px 0 49px 119px;
+font-size: 16px;
+text-transform: uppercase;}
+.header{position: fixed;
+	top: 0;
+	left: 0;
+height: 120px;
+width: 100%;
+background-color: white;
+z-index: 30;}
+.wraper{position: relative;
+margin-top: 120px;
+width: 1600px;}
+.banner_text1{position: absolute;
+top: 105px;
+left: 647px;
+color: white;
+font-size: 22px;}
+.banner_text2{position: absolute;
+left: 700px;
+top:132px;
+font-size:48px;
+color: white;}
+.clear{clear: both;}
+.text3{margin-top: 84px;
+margin-left: 174px;
+margin-bottom: 81px;
+color: orange;
+font-size: 22px;
+text-transform: capitalize;
+font-weight: bold;}
+.image{width: 636px;
+/*margin: 0 52px 20px 138px;*/}
+.satauri{font-size: 36px;
+font-weight: bold;
+/*margin-left: 138px;*/
+width: 563px;
+color: black;}
+.article{font-size: 16px;
+width: 636px;
+/*margin-left: 138px;
+*/margin-top: 22px;
+color: #7B7B7B;}
+.footer{color: orange;
+font-size: 14px;
+font-weight: bold;
+margin-bottom: 57px;
+/*margin-left: 138px;*/
+text-transform: uppercase;
+margin-top: 13px;}
+.news1{width: 636px;
+	margin-left: 138px;
+	margin-right: 52px;
+	 float: left;}
+.news2{width: 636px;
+	float: right;}
+
+.button {
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 66px;
+  margin-left: 705px;
+  margin-bottom: 134px; 
+}
+
